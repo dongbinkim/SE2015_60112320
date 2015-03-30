@@ -11,13 +11,13 @@
 
 <bean id="lecture2" class="Lecture">
 	<constructor-arg>
-		<value>C언어</value>
+		<value>홍길동</value>
 	</constructor-arg>
 </bean>
 
 <bean id="student" class="Student">
 	<constructor-arg>
-		<value>김동빈</value>
+		<value>소프트웨어 공학</value>
 	</constructor-arg>
 </bean>
 
